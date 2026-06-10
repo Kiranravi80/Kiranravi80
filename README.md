@@ -71,7 +71,7 @@ Beyond coding, I share my knowledge and insights through:
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kiranravi80)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kiranravi80)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran80/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)][(https://kiran.com)](https://kiranraviportfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://kiranraviportfolio.vercel.app/)
 
 </div>
 
@@ -108,7 +108,7 @@ Beyond coding, I share my knowledge and insights through:
 
 I'm always open to collaborations, interesting projects, and conversations about AI, machine learning, and software engineering. Whether you want to discuss technology, collaborate on a project, or just say hi, feel free to reach out!
 
-📧 Connect via **[LinkedIn](https://www.linkedin.com/in/kiran80/)** | 🌐 Visit my **[Portfolio](https://kiran.com)** | 🎥 Subscribe on **[YouTube](https://www.youtube.com/@kiranravi80)**
+📧 Connect via **[LinkedIn](https://www.linkedin.com/in/kiran80/)** | 🌐 Visit my **[Portfolio][(https://kiran.com)](https://kiranraviportfolio.vercel.app/)** | 🎥 Subscribe on **[YouTube](https://www.youtube.com/@kiranravi80)**
 
 ---
 
